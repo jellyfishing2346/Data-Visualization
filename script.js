@@ -26,7 +26,7 @@ const doughnutChart = new Chart(doughnutChartCtx, {
         plugins: {
             title: {
                 display: true,
-                text: 'Overall Healthy vs Unhealthy Habits (Doughnut Chart) - Deepseek-V3',
+                text: 'Overall Healthy vs Unhealthy Habits (Doughnut Chart)',
                 font: {
                     size: 16
                 }
